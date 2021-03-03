@@ -1,4 +1,14 @@
-# Livro de receitas :book:
+# Livro de receitas :man_cook:
+### Olá :wave: 
 ### Aqui você encontrará algumas receitas fáceis e práticas para serem feitas em casa 
 
-_Esse foi um exercicío do curso de **Git e GitHub** da **Digital Innovation One**, e por ser meu primeiro repositório no GitHub, toda semana irei adicionar uma receita aqui : )_
+#### Receitas: 
+* Strogonoff de frango
+* Pavê    
+
+
+> _Esse foi um exercicío do curso de **Git e GitHub** da **Digital Innovation One**, e por ser meu primeiro repositório no GitHub, toda semana irei adicionar uma receita aqui : )_
+>
+>
+>
+> *Receitas retiradas do site [Tudo gostoso](https://www.tudogostoso.com.br/)*
