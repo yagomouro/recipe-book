@@ -4,7 +4,7 @@
 
 #### Receitas: 
 * Strogonoff de frango
-* Pavê     
+* Pavê 
  
 
 > _Esse foi um exercicío do curso de **Git e GitHub** da **Digital Innovation One**, e por ser meu primeiro repositório no GitHub, toda semana irei adicionar uma receita aqui : )_
