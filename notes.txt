@@ -1,0 +1,133 @@
+Aula 01-----------------------------------------------------------------------------------------------------------------------------------
+ 
+GIT: Sistema de versionamento de código distribuido (Linus Torvalds)
+     Ajuda a criar e monitorar diferentes versões do código na máquina
+
+GITHUB: Servidor remoto para armazenamento de código.
+
+Vantagens- 
+1- Controle de versão 
+2- armazenamento em nuvem
+3- trabalho em equipe
+4- melhorar o código
+5- reconhecimento
+
+GUI: Graphic User Interface 
+CLI: Comand Line Interface
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Aula 02-----------------------------------------------------------------------------------------------------------------------------------
+
+Comandos git:
+
+ls : listar diretórios no local específico
+cd : direcionar à outro local especificado
+mkdir : criar diretórios
+rm -r(pasta dentro de pasta) f(confirmação) : apagar diretórios
+touch : adicionar arquivos
+echo "conteudo" > arquivo. : adiciona o conteudo a um arquivo
+mv : mover arquivos
+tab : auto completa palavras
+
+git init : iniciar repositório do GIT
+git add : mover arquivos e inicializar o versionamento
+git commit -m "comentario" : criar commit com comentario
+git status : ver status dos arquivos no repositório
+git config --list(lista) : lista de todas configurações do git
+git config --global(aplica em tudo) user.name "username" : mudar nome do usuário | --unset : apaga informação
+git remote add origin(variável, podendo substituir a url) : Adicionar origem para qual irá os arquivos
+git remote -v : lista as listas de repositórios cadastradas
+git push origin master(branch) : "Empurrar" repositório local para um repositório remoto 
+git clone url : Faz um clone do repositório remoto em seu repositório local.
+git pull origin master: "Puxa" o repositório remoto para a máquina, para resolver conflitos
+git remote remove origin: exclui a url do repositório remoto estabelecida
+git remote set-url origin url: altera a url do repositório remoto
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Aula 03----------------------------------------------------------------------------------------------------------------------------------
+
+SHA 1 : Security Hash Algorithm 
+            Conjunto de funções hash criptográficas desenvolvida pela NSA
+       
+openssl sha1 arquivo = Gera conjunto de caracteres de 40 dígitos
+
+Blobs- tipo do objeto, tamanho do arquivo, e conteúdo
+Trees- blobs, sha1 e nome do arquivo
+Commits- árvore, parente, autor, mensagem e 
+timestamp - carimbo de tempo
+
+Commits > Trees > Blobs
+       
+Sistema distribuido seguro: possui múltiplas cópias de si mesmo 
+em diferentes locais, e seus objetos estão ligados de maneira encadeada
+e de difícil alteração
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 04----------------------------------------------------------------------------------------------------------------------------------
+
+git init- iniciar repositório do GIT
+git add- mover arquivos e inicializar o versionamento
+git commit -m : criar commit
+
+Markdown - forma menos codificada de escrever html
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 05----------------------------------------------------------------------------------------------------------------------------------
+
+Git init- cria .git e inicializa o repositório dentro do diretório
+Untracked- arquivo não reconhecido pelo git 
+
+
+Tracked- arquivo reconhecido pelo git
+
+Ciclo:
+Unmodified- Ainda não foi modificado
+Modified- Já sofreu modificação (git confere sha1 dos arquivos)
+Staged- Pronto para ser commitado
+
+UM----editar arquivo----MD----git add----ST----commit (snapshot)----UM
+
+
+UM----remover arquivo----UT----adicionar arquivo-----ST
+
+Ambiente de desenvolvimento (local):
+
+Working Directory: Repositório de trabalho - UT após git init
+Staging Area: Área de preparação- UT e UM após git add
+Local Repository: Local para onde vão os commits- ST após commit -m (apenas composto por commits)
+
+Servidor:
+
+Remote repository (remoto)- Local de repositório remoto
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Aula 06----------------------------------------------------------------------------------------------------------------------------------
+
+Não é possível alterar autores de commits antigos, sem mudar o sha1
+
+git remote add origin(variável, podendo substituir a url) : Adicionar origem para qual irá os arquivos
+git remote -v : lista as listas de repositórios cadastradas
+git push origin master(branch) : "Empurrar" repositório local para um repositório remoto 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 07----------------------------------------------------------------------------------------------------------------------------------
+
+
+git clone url : Faz um clone do repositório remoto em seu repositório local.
+
+Conflito de Merge- Quando duas pessoas editam a mesma linha de código.
+
+git pull origin master: "Puxar" o repositório remoto para a máquina, para resolver conflitos
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
