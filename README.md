@@ -4,7 +4,7 @@
 
 #### Receitas: 
 * Strogonoff de frango
-* Pavê 
+* Pavê de Bis
 * Bolo de cenoura     
 
  
