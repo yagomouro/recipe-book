@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-### Ingredientes
+## Ingredientes
 - 3 peitos de frango cortados em cubos
 - 1 dente de alho picado
 - sal e pimenta a gosto
@@ -13,7 +13,7 @@
 - 1 copo de creme de leite
 - batata palha a gosto
 
-### Modo de Preparo
+## Modo de Preparo
 1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
 1. Em uma frigideira grande, derreta a manteiga e doure a cebola.
@@ -27,9 +27,9 @@
 1. Sirva com arroz branco e batata palha.
 
 
-###  História do Strogonoff
+##  Informações adicionais
 O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, nasceu na Rússia e era um prato servido para nobreza russa. No Brasil, se popularizou nos anos 1970 e era uma comida especial, servida em festas. Não demorou muito, o strogonoff chegou nos pratos de todos os brasileiros e hoje faz parte do nosso dia a dia. 
 
 
 
-*referência: [Strogonoff de frango - TudoGostoso](https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html)*
+*Referência: [Strogonoff de frango - TudoGostoso](https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html)*
