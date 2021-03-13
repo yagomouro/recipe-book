@@ -9,7 +9,7 @@
 
  
 
-> _Esse foi um exercicío do curso de **Git e GitHub** da **Digital Innovation One**, e por ser meu primeiro repositório no GitHub, toda semana irei adicionar uma receita aqui : )_
+> _Esse foi um exercicío do curso de **Git e GitHub** da **[Digital Innovation One](https://digitalinnovation.one/sign-up?ref=NPRAJ6J67I)**, e por ser meu primeiro repositório no GitHub, toda semana irei adicionar uma receita aqui : )_
 >
 >
 >
